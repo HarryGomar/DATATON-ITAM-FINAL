@@ -29,7 +29,8 @@ El código de este proyecto se centra en el análisis de datos de comercio y log
 
 ## Datos
 # Fuentes de Datos
-ANTAD: Asociación Nacional de Tiendas de Autoservicio y Departamentales
-DENUE: Directorio Estadístico Nacional de Unidades Económicas
-ENDUTIH 2023: Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares
-INEGI: Instituto Nacional de Estadística y Geografía
+- ANTAD: Asociación Nacional de Tiendas de Autoservicio y Departamentales
+- DENUE: Directorio Estadístico Nacional de Unidades Económicas
+- ENDUTIH 2023: Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares
+- ENOE: Encuesta Nacional de Ocupación y Empleo (ENOE), población de 15 años y más de edad
+- EAC: Encuesta Anual de Comercio 
